@@ -10,3 +10,4 @@ add_executable(ex7_01 ch07/ex7_01.cpp)
 add_executable(ex7_02 ch07/ex7_02.h ch07/ex7_02.c)
 
 add_executable(ex7_41 ch07/ex7_41_TEST.cpp ch07/ex7_41.cpp ch07/ex7_41.h)
+add_executable(ex7_03 ch07/ex7_03.cpp ch07/ex7_02.h)
